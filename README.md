@@ -1,3 +1,3 @@
 # TRexR-Online-Appendix
 
-Online Appendix of "TRexR: An Adaptive Mixture-of-Experts Framework for Recommendation on Relational Databases"
+Online Appendix of "TRexR: A Cascade of Experts for Recommendation on Relational Databases"
